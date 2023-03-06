@@ -1,4 +1,4 @@
-# OpenCV Stereo Sensing Project
+# OpenCV Stereo Vision & Depth Perception Project
 
 This project is an implementation of 3-Dimensional environment perception by stereo camera sensors used for accurate real-time generation of depth images for mobile phones from images captured by cameras and/or LIDAR sensors. Depth maps assist with navigating environments for self-driving automobiles by providing a more hollistic description of the surrounding environment and the distance of detected obstacles!
 
