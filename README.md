@@ -8,6 +8,8 @@ To demonstrate the capabilities of the implementation, below are 2 stereo images
 
 <p align="center"><img width=37.5% src="https://github.com/shlok191/OpenCV_Stereo_Sensing_Project/blob/main/data/images/CamL_259659217_1024.png"/>    <img width=37.5% src="https://github.com/shlok191/OpenCV_Stereo_Sensing_Project/blob/main/data/images/CamR_259659217_1024.png"/></p>
 
+Generated Real Time Depth Image:
+
 <p align="center"><img width=50% src="https://github.com/shlok191/OpenCV_Stereo_Sensing_Project/blob/main/data/depth_map.png"/><p>
 
 
