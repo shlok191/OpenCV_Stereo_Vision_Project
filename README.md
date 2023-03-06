@@ -12,4 +12,4 @@ Generated Real Time Depth Image:
 
 <p align="center"><img width=50% src="https://github.com/shlok191/OpenCV_Stereo_Sensing_Project/blob/main/data/depth_map.png"/><p>
 
-
+We can view from the demonstrated depth map that even with particularly dark input images, proper data augmentation using OpenCV added with enhanced calculated of sensor extrinsic and intrinsic parameters allows us to generate accurate depth maps!
