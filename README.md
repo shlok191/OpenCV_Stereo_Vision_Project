@@ -12,4 +12,4 @@ Generated Real Time Depth Image:
 
 <p align="center"><img width=50% src="https://github.com/shlok191/OpenCV_Stereo_Sensing_Project/blob/main/data/depth_map.png"/><p>  
 
-We can view from the demonstrated depth map that even with particularly dark input images as one may expect to see on the Moon, proper data augmentation with OpenCV with proper implementation of stereo sensors' calibration in `camera_calibration.cpp` allows us to generate up to 97% accurate depth maps that are pivotal for the planned Real Time Location System (RTLS) being implemented by SBEL.
+We can view from the demonstrated depth map that even with particularly dark input images as one may expect to see on the Moon, proper data augmentation with OpenCV with proper implementation of stereo sensors' calibration in `camera_calibration.cpp` allows us to generate up to 97% accurate depth maps that are pivotal for the Real Time Location System (RTLS) currently being developed by SBEL of which I am proud to be a leading contributor!
