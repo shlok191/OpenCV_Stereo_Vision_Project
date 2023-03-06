@@ -6,9 +6,9 @@ This project was implemented to test practical use of depth maps for RTSL applic
 
 To demonstrate the capabilities of the implementation, below are 2 stereo images and the generated depth map from the [POLAR dataset](https://ti.arc.nasa.gov/dataset/IRG_PolarDB/) published by NASA in 2017 containing stereo images captured from an incredibly realistic lunar terrain re-creation for the purpose of training computer vision neural networks:
 
-<p align="center"><img width=37.5% src="https://github.com/shlok191/OpenCV_Stereo_Sensing_Project/blob/main/data/images/CamL_259659217_1024.png"/>    <img width=37.5% src="https://github.com/shlok191/OpenCV_Stereo_Sensing_Project/blob/main/data/images/CamR_259659217_1024.png"/></p>
+<p align="center"><img width=37.5% src="https://github.com/shlok191/OpenCV_Stereo_Sensing_Project/blob/main/data/images/CamL_259659217_1024.png"/>    <img width=37.5% src="https://github.com/shlok191/OpenCV_Stereo_Sensing_Project/blob/main/data/images/CamR_259659217_1024.png"/></p>  
 
-Generated Real Time Depth Image:
+Generated Real Time Depth Image:  
 
 <p align="center"><img width=50% src="https://github.com/shlok191/OpenCV_Stereo_Sensing_Project/blob/main/data/depth_map.png"/><p>
 
