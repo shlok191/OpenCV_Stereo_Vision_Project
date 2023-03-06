@@ -1,6 +1,6 @@
 # OpenCV Stereo Vision & 3-Dimensional Perception Project
 
-This project is an implementation of 3-Dimensional environment perception by stereo camera sensors used for accurate real-time generation of depth images for mobile phones from images captured by cameras and/or LIDAR sensors. Depth maps assist with navigating environments for self-driving automobiles by providing a more hollistic description of the surrounding environment and the distance of detected obstacles!
+This project is an implementation of 3-Dimensional environment perception and navigation by stereo camera sensors used for accurate real-time generation of depth images for mobile phones from images captured by cameras and/or LIDAR sensors. Depth maps assist with navigating environments for self-driving automobiles by providing a more hollistic description of the surrounding environment and the distance of detected obstacles!
 
 This project was implemented to test practical use of depth maps for RTSL applications for self-driving lunar rovers being worked on at the Simulations Based Engineering Lab (SBEL) organization as part of an upcoming NASA lunar rover mission scheduled for 2024!
 
